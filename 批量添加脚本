@@ -1,4 +1,4 @@
-批量添加脚本
+批量添加脚本AWVS12-Scan-Agent
 修改config.py里的
 host:为自己的awvs链接
 api-key在awvs里的porfile里下拉有选项自动生成然后复制粘贴进去,保存退出后运行
